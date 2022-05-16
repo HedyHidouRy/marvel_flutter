@@ -1,0 +1,1 @@
+class NoRecordsException implements Exception {}
